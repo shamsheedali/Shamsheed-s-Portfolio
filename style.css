@@ -397,6 +397,13 @@ footer {
     color: #6a635b;
 }
 
+.footer-resourse ul a {
+    display: flex;
+    width: fit-content;
+    text-decoration: none;
+    color: #6a635b;
+}
+
 .footer-nav {
     width: 40%;
 }
